@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Templates\gentelella-master.zip" />
     <None Include="Templates\gentelella-master\gentelella-master\.gitignore" />
     <None Include="Templates\gentelella-master\gentelella-master\bower.json" />
     <None Include="Templates\gentelella-master\gentelella-master\changelog.md" />
@@ -126,6 +127,7 @@
     <None Include="Templates\gentelella-master\gentelella-master\production\js\datatables\json\scroller-demo.json" />
     <None Include="Templates\gentelella-master\gentelella-master\production\js\maps\us-unemployment.json" />
     <None Include="Templates\gentelella-master\gentelella-master\README.md" />
+    <None Include="Templates\ILSpy_Master_2.3.1.1855_Binaries.zip" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
