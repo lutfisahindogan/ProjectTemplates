@@ -129,6 +129,7 @@
     <None Include="Templates\gentelella-master\gentelella-master\README.md" />
     <None Include="Templates\ILSpy_Master_2.3.1.1855_Binaries.zip" />
     <None Include="Templates\SqlConverter_v1_20_binary.zip" />
+    <None Include="Templates\Tarama.rar" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
